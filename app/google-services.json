@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "652229811224",
+    "firebase_url": "https://white-dispatch-280416.firebaseio.com",
+    "project_id": "white-dispatch-280416",
+    "storage_bucket": "white-dispatch-280416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652229811224:android:96c3517f60d0746c18f76d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652229811224-qaeb36r1mg9l91hdmoq2e6c7rd0ab0a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_cars",
+            "certificate_hash": "b00a209ae7c263936f6a3ae5ea6cdd7817601b0f"
+          }
+        },
+        {
+          "client_id": "652229811224-jijjg32lfe8blqv2k32v3f7hls5e5j74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_cars",
+            "certificate_hash": "62118129f9c43a700550f7f6247ffaf643d9f421"
+          }
+        },
+        {
+          "client_id": "652229811224-ulta2kqnusgqksab76l6djld5f21hjv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD7izT_ic1BC2vNo-UTravLrf7uPhhmD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652229811224-ulta2kqnusgqksab76l6djld5f21hjv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
